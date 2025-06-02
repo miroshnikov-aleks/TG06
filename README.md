@@ -35,7 +35,8 @@ Telegram-бот для управления личными финансами, �
    venv\Scripts\activate     # Windows
 
 ## Установите зависимости :
-pip install aiogram requests
+   ```bash
+   pip install aiogram requests
 
 ## Настройте конфигурацию :
 Замените TOKEN в config.py на ваш токен Telegram-бота.
